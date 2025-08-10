@@ -14,7 +14,7 @@
 
 
 
-# Day Two CPP 🎈
+# Day Three CPP 🎈
  # Array In C++
 
  #include<iostream>
